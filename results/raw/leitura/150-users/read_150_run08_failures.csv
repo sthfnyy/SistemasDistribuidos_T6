@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,GET /api/customer/owners/{id},HTTPError('503 Server Error: Service Unavailable for url: GET /api/customer/owners/{id}'),14384,2026-10-22T05:37:13Z,2026-10-22T05:42:16Z
+GET,GET /api/customer/owners,HTTPError('503 Server Error: Service Unavailable for url: GET /api/customer/owners'),18560,2026-10-22T05:37:13Z,2026-10-22T05:42:16Z
+POST,POST /api/customer/owners,HTTPError('503 Server Error: Service Unavailable for url: POST /api/customer/owners'),2111,2026-10-22T05:37:13Z,2026-10-22T05:42:16Z
+GET,GET /api/vet/vets,HTTPError('503 Server Error: Service Unavailable for url: GET /api/vet/vets'),6214,2026-10-22T05:37:13Z,2026-10-22T05:42:16Z

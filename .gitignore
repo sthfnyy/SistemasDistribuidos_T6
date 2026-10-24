@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Java / build outputs
+**/target/
+**/build/
+**/.gradle/
+**/out/
+*.class
+
+# Maven wrapper local download cache
+.mvn/wrapper/*.jar
+
+# OS / temporary files
+*.tmp
+*.bak
+
+# Runtime / experiment logs
+logs/
+*.log
+*.err.log
+*.pid
+results/benchmark-progress.log
+
+# Spring PetClinic local clone
+petclinic/
+
+# Keep final project deliverables
+!README.md
+!locust/
+!locust/**
+!scripts/
+!scripts/**
+!results/
+!results/**
+!evidencias/
+!evidencias/**
+
+# Ignore intermediate / validation graphs
+results/graphs/*_validacao.png
+results/graphs/*_leitura.png
+
+# Keep only the final graphs
+!results/graphs/avg_response_time.png
+!results/graphs/p95_response_time.png
+!results/graphs/failure_rate.png
+!results/graphs/throughput.png
+!results/graphs/cpu_usage.png
+
+# Keep processed CSVs
+!results/processed/
+!results/processed/**
+
+# Keep raw CSV result files
+!results/raw/
+!results/raw/**/*.csv
