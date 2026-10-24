@@ -302,7 +302,7 @@ O benchmark completou 60 runs válidas, sem runs definitivamente perdidas. O amb
 
 ## Vídeo
 
-COLOQUE_AQUI_O_LINK_DO_VIDEO
+[https://youtu.be/83Wejeq9xNg]
 
 ## Validação inicial executada
 
